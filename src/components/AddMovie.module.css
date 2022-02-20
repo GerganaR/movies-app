@@ -7,7 +7,7 @@
   font-weight: bold;
   margin-bottom: 0.5rem;
   text-align: left;
-  color: #460897;
+  color: #0e1824;
 }
 
 .control input,
@@ -23,5 +23,5 @@
 .control input:focus,
 .control textarea:focus {
   outline: none;
-  border-color: #230052;
+  border-color: #0e1824;
 }

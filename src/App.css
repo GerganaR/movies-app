@@ -11,8 +11,8 @@ section {
 button {
   font: inherit;
   cursor: pointer;
-  background: #715bb2;
-  border: 1px solid #715bb2;
+  background: #ff6c30;
+  border: 1px solid #ff6c30;
   color: #fff;
   padding: 0.75rem 2rem;
   border-radius: 20px;
@@ -24,6 +24,6 @@ button:focus {
 
 button:hover,
 button:active {
-  background-color: #460897;
-  border-color: #460897;
+  background-color: #0e1824;
+  border-color: #0e1824;
 }
